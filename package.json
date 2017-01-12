@@ -4,7 +4,7 @@
 	"main": "./lib/libxml-to-js.js",
 	"description": "XML to JavaScript object parser based on libxmljs",
 	"dependencies": {
-		"libxmljs": "0.16.1",
+		"libxmljs": "0.18.2",
 		"lodash": "*"
 	},
 	"engines": {
